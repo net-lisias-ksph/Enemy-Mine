@@ -11,7 +11,6 @@ C:\Users\Black Ops\Desktop\MODS 1.4.3\EnemyMine\EnemyMine_Plugin\bin\Debug\KSPTr
 C:\Users\Black Ops\Desktop\MODS 1.4.3\EnemyMine\EnemyMine_Plugin\bin\Debug\Mono.Cecil.dll
 C:\Users\Black Ops\Desktop\MODS 1.4.3\EnemyMine\EnemyMine_Plugin\bin\Debug\Ionic.Zip.dll
 C:\Users\Black Ops\Desktop\MODS 1.4.3\EnemyMine\EnemyMine_Plugin\bin\Debug\TDx.TDxInput.dll
-C:\Users\Black Ops\Desktop\MODS 1.4.3\EnemyMine\EnemyMine_Plugin\bin\Debug\RedShellSDK.dll
 C:\Users\Black Ops\Desktop\MODS 1.4.3\EnemyMine\EnemyMine_Plugin\obj\Debug\EnemyMine.csprojResolveAssemblyReference.cache
 C:\Users\Black Ops\Desktop\MODS 1.4.3\EnemyMine\EnemyMine_Plugin\obj\Debug\EnemyMine.csproj.CoreCompileInputs.cache
 C:\Users\Black Ops\Desktop\MODS 1.4.3\EnemyMine\EnemyMine_Plugin\obj\Debug\EnemyMine.dll

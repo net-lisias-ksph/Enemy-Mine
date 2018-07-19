@@ -1,9 +1,6 @@
 ﻿using System;
 using KSP.UI.Screens;
 using UnityEngine;
-using BDArmory;
-using BDArmory.UI;
-using BDArmory.Parts;
 using System.Collections.Generic;
 using System.Collections;
 
