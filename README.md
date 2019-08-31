@@ -1,4 +1,4 @@
-Enemy Mine
+# Enemy Mine
 
 Adds Land Mines, Naval Mines, Depth Charges and Hedgehogs to KSP
 
@@ -20,3 +20,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
+# UPSTREAM
+
+* [DoctorDavinci](https://forum.kerbalspaceprogram.com/index.php?/profile/150019-doctordavinci/)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/174719-*)
+	+ [Github](https://github.com/DoctorDavinci/Enemy-Mine)
