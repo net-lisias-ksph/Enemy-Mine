@@ -1,5 +1,7 @@
 # Enemy-Mine :: Change Log
 
+* 2018-0618: 0.1.0.2 (DoctorDavinci) for KSP 1.4.0
+	+ Update for BD Armory Continued v1.2.1.3
 * 2018-0601: 0.1.0.1 (DoctorDavinci) for KSP 1.4.0
 	+ Recompile for BDAc v1.2.1.2
 * 2018-0507: 0.1.0.0 (DoctorDavinci) for KSP 1.4.0
